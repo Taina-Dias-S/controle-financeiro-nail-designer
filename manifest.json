@@ -1,0 +1,25 @@
+{
+  "name": "Meu Caixa Nail",
+  "short_name": "Caixa Nail",
+  "description": "Sistema simples de controle financeiro para nail designer.",
+  "start_url": "/login.php",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#fcfaf8",
+  "theme_color": "#c9a27b",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/assets/img/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/img/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
